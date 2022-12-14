@@ -13,3 +13,7 @@ https://docs.aws.amazon.com/vpc/latest/userguide/vpc-subnets-commands-example.ht
 https://docs.aws.amazon.com/vpc/latest/userguide/vpc-subnets-commands-example-ipv6.html
 
 https://docs.aws.amazon.com/vpc/index.html
+
+
+NOTE
+I created a non-default VPC using the AWS CLI. You can find the attached screenshots for your perusal
