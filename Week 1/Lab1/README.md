@@ -19,6 +19,10 @@ For guide, kindly visit
 
 https://docs.aws.amazon.com/cli/latest/reference/s3api/create-bucket.html
 
-https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html
+https://docs.aws.amazon.com/  AmazonS3/latest/userguide/Welcome.html
 
 https://docs.aws.amazon.com/cli/latest/userguide/cli-services-s3-commands.html
+
+
+NOTE
+I created a S3 bucket using the AWS CLI and uploaded objects into it. Thereafter, after taking screenshot, deleted the buckets. 
