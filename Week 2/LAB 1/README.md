@@ -22,3 +22,5 @@ https://docs.aws.amazon.com/cli/latest/reference/ec2/
 
 https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-vpcs.html
 
+NOTE
+I launched the AWS Management Console, created a private and public subnets and launched an instance with it
