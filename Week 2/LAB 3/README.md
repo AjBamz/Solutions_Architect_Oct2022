@@ -16,3 +16,6 @@ https://docs.aws.amazon.com/vpc/latest/userguide/vpc-subnets-commands-example.ht
 https://docs.aws.amazon.com/vpc/latest/userguide/vpc-subnets-commands-example-ipv6.html
 
 https://docs.aws.amazon.com/vpc/index.html
+
+NOTE
+I created a dual stack VPC USING THR AWS CLI and performed a clean up operation. 
