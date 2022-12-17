@@ -33,4 +33,5 @@ financeuser          billinguser          Billing view access
 
 https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_users-self-manage-mfa-and-creds.html
 
-
+NOTE 
+I created different IAM groups, attached users and permissions to each. I replicate the process for Schulltech organization as described above. 
