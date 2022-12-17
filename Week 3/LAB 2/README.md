@@ -15,3 +15,7 @@ Guide:
 https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-scenarios.html
 
 https://docs.aws.amazon.com/cognito/latest/developerguide/tutorial-create-identity-pool.html
+
+
+NOTE
+I created a user pool on the AWS console
