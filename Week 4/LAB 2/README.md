@@ -13,3 +13,6 @@ Guide:
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volumes.html
 
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-attaching-volume.html
+
+
+I created an Amazon EBS volume and attached it to my EC2 instance
