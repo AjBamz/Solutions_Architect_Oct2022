@@ -11,3 +11,6 @@ Tasks:
 
 Guide:
 https://docs.aws.amazon.com/autoscaling/ec2/userguide/GettingStartedTutorial.html
+
+
+I configured settings for auto scaling group
