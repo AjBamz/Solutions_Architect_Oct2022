@@ -26,7 +26,7 @@ https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/AlarmThatSendsEma
 
 
 
-
+I cofigured my billing alarm
 
 
 
