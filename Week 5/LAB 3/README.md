@@ -10,3 +10,6 @@ Task
 
 Guide:
 https://docs.aws.amazon.com/efs/latest/ug/gs-step-two-create-efs-resources.html
+
+
+I created a Elastic File System
