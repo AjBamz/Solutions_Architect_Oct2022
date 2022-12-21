@@ -13,3 +13,6 @@ Task:
 
 Guide:
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/GettingStartedDynamoDB.html
+
+NOTE
+I created a table using AWS DynamoDB
