@@ -10,3 +10,5 @@ Guide:
 
 https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/GettingStarted.html
 
+NOTE
+I worked using the Elastic Beanstalk and cleaned up after. 
