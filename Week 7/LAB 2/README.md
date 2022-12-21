@@ -11,3 +11,7 @@ Guide:
 https://docs.aws.amazon.com/sns/latest/dg/sns-getting-started.html
 
 https://docs.aws.amazon.com/sns/latest/dg/sns-create-topic.html
+
+
+NOTE
+i set a SNS architecture
