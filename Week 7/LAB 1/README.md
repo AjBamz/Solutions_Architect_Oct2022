@@ -8,3 +8,7 @@ Working Objectives:
 4. Create a launch configuration and an Auto Scaling group.
 5. Automatically scale new instances within a private subnet.
 6. Create Amazon CloudWatch alarms and monitor performance of your infrastructure.
+
+
+NOTE
+I created an instance configured it to be a scalable web infrastructure
