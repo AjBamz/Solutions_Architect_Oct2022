@@ -11,3 +11,7 @@ Guide
 https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-getting-started.html
 
 https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-configuring.html
+
+
+NOTE
+I worked with the SQS. I sent and received a message.
